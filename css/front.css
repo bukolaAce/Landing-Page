@@ -1,0 +1,20 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  background-color: skyblue;
+}
+
+.img-div {
+  width: 100%;
+  text-align: center;
+}
+.img-div img {
+  border-radius: 150px;
+  border: 5px double black;
+}
+.lorem {
+  text-indent: 50px;
+  margin: 0 40px;
+  line-height: 200%;
+}
